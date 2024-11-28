@@ -1,0 +1,32 @@
+<svg width="180" height="36" viewBox="0 0 180 36" fill="none" xmlns="http://www.w3.org/2000/svg">
+<mask id="mask0_3642_1715" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="0" y="0" width="36" height="36">
+<rect width="36" height="36" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask0_3642_1715)">
+<path d="M8.73811 31.5L11.1756 20.9625L3.00061 13.875L13.8006 12.9375L18.0006 3L22.2006 12.9375L33.0006 13.875L24.8256 20.9625L27.2631 31.5L18.0006 25.9125L8.73811 31.5Z" fill="#D2010D"/>
+</g>
+<mask id="mask1_3642_1715" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="36" y="0" width="36" height="36">
+<rect x="36" width="36" height="36" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask1_3642_1715)">
+<path d="M44.7381 31.5L47.1756 20.9625L39.0006 13.875L49.8006 12.9375L54.0006 3L58.2006 12.9375L69.0006 13.875L60.8256 20.9625L63.2631 31.5L54.0006 25.9125L44.7381 31.5Z" fill="#D2010D"/>
+</g>
+<mask id="mask2_3642_1715" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="72" y="0" width="36" height="36">
+<rect x="72" width="36" height="36" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask2_3642_1715)">
+<path d="M80.7381 31.5L83.1756 20.9625L75.0006 13.875L85.8006 12.9375L90.0006 3L94.2006 12.9375L105.001 13.875L96.8256 20.9625L99.2631 31.5L90.0006 25.9125L80.7381 31.5Z" fill="#D2010D"/>
+</g>
+<mask id="mask3_3642_1715" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="108" y="0" width="36" height="36">
+<rect x="108" width="36" height="36" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask3_3642_1715)">
+<path opacity="0.2" d="M116.738 31.5L119.176 20.9625L111.001 13.875L121.801 12.9375L126.001 3L130.201 12.9375L141.001 13.875L132.826 20.9625L135.263 31.5L126.001 25.9125L116.738 31.5Z" fill="#D2010D"/>
+</g>
+<mask id="mask4_3642_1715" style="mask-type:alpha" maskUnits="userSpaceOnUse" x="144" y="0" width="36" height="36">
+<rect x="144" width="36" height="36" fill="#D9D9D9"/>
+</mask>
+<g mask="url(#mask4_3642_1715)">
+<path opacity="0.2" d="M152.738 31.5L155.176 20.9625L147.001 13.875L157.801 12.9375L162.001 3L166.201 12.9375L177.001 13.875L168.826 20.9625L171.263 31.5L162.001 25.9125L152.738 31.5Z" fill="#D2010D"/>
+</g>
+</svg>
